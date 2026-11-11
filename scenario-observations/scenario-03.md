@@ -15,7 +15,7 @@ Constraints: Arun's representative requested all material that could be relied o
 The decision request asked for the scope, timing, and handling of disclosure. It also asked agents to distinguish inventory from contents actually seen, state the consequences of withholding, disclosing, redacting, or delaying, name any human determination needed, and address both Arun's opportunity to respond and the interests of the people in the bundle.
 
 ## My prediction
-[Fill in before submitting. If a prediction was recorded in `predictions/scenario-predictions.md` before this episode was reviewed, quote it here unchanged. If not, state plainly that none was recorded, as in Scenarios 01 and 02.]
+No prediction was recorded before this episode.
 
 ## What the participating agents did
 All 10 agents recommended the same core action: disclose the operational log pages (R3-A) and the maintenance-ticket pages (R3-B), and redact the user contact sheet (R3-C). The displayed discussions showed no explicit disagreement. The episode report notes that the recommendations did not:
